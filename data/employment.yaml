@@ -1,0 +1,109 @@
+company:
+- name: Amazon
+  url: https://www.aboutamazon.eu/who-we-are
+  location: London
+  role: "DEI Recruiting Program Manager – WWAS Talent Acquisition, EMEA"
+  date: "April '22 - Present"
+
+  projects:
+    - detail:
+        - contents: Build and develop diversity programs to drive targeted diversity recruitment efforts across all EMEA locations in alignment with business strategy.
+        - contents: Creating tracking and reporting mechanisms that focus on the status, quality, productivity and scalability of all programs across EMEA.
+        - contents: Partner with EMEA Talent Acquisition teams, Diversity and HR Business partners and key business stakeholders to ensure continuous improvement and engagement on the topic.
+        - contents: Analyse data and anecdotal feedback to gather insights, proactively plan ahead and drive programs and scale.
+
+    - achievements:
+        - contents: 'UK Disability Confident Leader: Led the TA effort across all of Amazon UK businesses to obtain the UK Government accreditation to become a L3 Disability Confident Leader.'
+        - contents: 'EU Consistency / One Amazon Approach to Accommodations: In collaboration with WFS, identified the need to create consistency in accommodations support offered across Europe and obtained HR resource to support.' 
+        - contents: Partner with EMEA Talent Acquisition teams, Diversity and HR Business partners and key business stakeholders to ensure continuous improvement and engagement on the topic.
+        - sub:
+            - list: 'Greater DEI Consistency across EMEA TA Stores:'
+            - list: Creation of an SLT-nominated DEI Steering Committee and Terms of Reference to give visibility, scale and amplify TA DEI activity and reduce duplication. 
+            - list: Created a central monthly update mechanism to share all TA DEI activity and provide in a ‘lift and shift’ format for all TA stakeholders to use in business reporting.  
+            - list: Established a regular connect with key SLT members to share progress against gender goals and identify path-to-green and scalable initiatives. 
+            - list: Established regular connect and better alignment with DEI business partners to drive greater consistency across all DEI talent movement metrics to the business. 
+        - contents: 'DEI Talent Acquisition Leadership Summit: Project managed the successful delivery of a DEI summit for 50+ Ops Leaders to drive greater consistency and understanding around what it means to be Earth’s Best Employer for everyone. Project plan was reused to support 2023 Disability Expo and Invictus Games.' 
+
+- name: Amazon
+  url: https://www.aboutamazon.eu/who-we-are
+  location: London
+  role: "Launch Recruiting Program Manager – EMEA Operations Talent Acquisition"
+  date: "Dec '20 - April '22"
+
+  projects:
+    - detail:
+        - contents: Responsible for end-to-end program management of the permanent recruitment for Customer Fulfilment sites within Southeast Europe, Germany, the UK and Turkey, each with a headcount of 200.
+        - contents: Establish and manage programmatic rhythm of business through up-to-date reporting, gap-to-target information, and path-to-green measures and acted as the single-owner of recruitment activity to the business.
+        - contents: Build key relationships with all key partner teams, including Launch Execution, Operations, Publish Relations, PXT and Learning and Development. 
+        - contents: Proactively assess recruitment risks and bottlenecks that may impact recruitment delivery by the site launch date. Where optimal delivery was not possible, identified workable recruitment initiatives / programs or identify alternative resource to support for site launch.
+        - contents: Create recruitment strategies for non-operationalised sites and identify long-lead headcount to pre-hire with minimal risk ahead of an operationalised decision.
+
+- name: Burberry
+  url: https://www.burberryplc.com/company/our-purpose-and-values
+  location: London
+  role: "Project Manager – Global Talent Acquisition"
+  date: "April '19 - November '20"
+
+  projects:
+    - detail:
+        - contents: Responsible for managing all projects with the global Talent Acquisition function and ensuring that all key milestones, time frames and budgets are continuously on track, updated and aligned, flagging any key risks and dependencies where necessary.
+        - contents: Establish and manage project teams consisting of both internal and external resource to ensure projects are delivered on time and to the brief. 
+        - contents: Manage and track key success metrics for all projects, ensuring all lessons learnt are identified and investigated, and key project benefits are realised.
+        - contents: Responsible for creating and communicating clear and consistent project and programme reports for Talent Acquisition, the wider HR team and the business.
+        - contents: Managing the Talent Acquisition KPIs, both in terms of defining core KPIs, aligning these with global partner and teams, and monitoring and reviewing KPIs with the global Talent Acquisition Managers and HRBPs.
+ 
+- name: Knight Frank
+  url: https://www.knightfrank.com/about-us
+  location: London
+  role: "International HR / Projects Adviser"
+  date: "April '17 - April '19"
+
+  projects:
+    - detail:
+        - contents: Act as the first point of contact for all HR projects within the UK HR team. This includes assisting HRBPs with setting up new projects, creating project proposals and briefs for board approval, planning and managing HR / business project meetings and documenting all project status updates.
+        - contents: Liaising with the PMO on all projects and providing board reports on current project status for both the HR Management Horizontal and UK Operations Board.
+        - contents: Presenting project status updates at the HR Management Horizontal on a monthly basis and highlighting any key risks or changes to project timelines.
+        - contents: Act as the Project Manager on key HR projects across the UK business and supporting the Group Head of HR and relevant HRBPs with project implementation and supporting the Group Head of HR in managing the implementation of all international HR projects.
+        - contents: Supporting Group HR colleagues in managing their projects by sharing knowledge and best practice, ensuring that all projects are set up with clear objectives and are aligned to Group HR strategy.
+        - contents: Good experience with version control tools and how development teams can manage processes with it <span class="inactive">(Git)</span>
+        - contents: Managing the annual 4-week international secondment programme for newly-qualified fee-earners including the application process, working alongside the Regional Heads in confirming international mentors, and arranging all placement logistics. 
+        - contents: Managing the global mobility programme for both secondments and permanent moves around the Group alongside the international HR teams including the production of contracts and all relevant documentation, accommodation and flights, visas if required, and HR support following the move.
+        - contents: Coordinating the rotation of UK Graduates across Europe as and when required, including contracts, relocation logistics, budget and support.
+        - contents: Supporting the international HR teams with administering Graduate Schemes as and when required, including advertising and CV Screening.
+        - contents: Supporting the international offices with the use and administration of the Recruitment Database.
+        - contents: Assisting with international recruitment requirement focusing on sourcing, salary benchmarking, working with internal and external recruiters / head-hunters and coordinating relevant candidate testing.
+        - contents: Coordinating the Group PSL.
+        - contents: Liaising with the recruitment team / local HR teams on opportunities for international transfers.
+
+past-company:
+- name: Knight Frank
+  url: https://www.knightfrank.com/about-us
+  location: London
+  date: "Febuary '16 - March '17"
+  role: "Recruitment Adviser"
+
+- name: Kerring
+  url: https://www.kering.com/en/talent/who-we-are/
+  location: London
+  date: "August '15 - December '15"
+  role: Talent Acquisition Manager (Contract)
+
+- name: YOOX Net-a-porter
+  url: https://www.ynap.com/about-us/
+  location: London
+  date: "November '14 - August '15"
+  role: Recruitment Partner (Contract)
+
+- name: McGregor Boyall
+  url: https://www.mcgregor-boyall.com/about-us/
+  location: London
+  date: "June '13 - November '14"
+  role: Internal Recruiter & Talent Mgmt Executive 
+
+- name: Jumeirah Group
+  url: https://www.jumeirah.com/en/jumeirah-group/about-jumeirah
+  location: Dubai, UAE
+  date: "August '12 - April '13"
+  role: Human Resources Intern 
+
+
